@@ -1,0 +1,1 @@
+export default function Support(){ return <div className='card p-6'>Support — Working conditions modal, news channel, technical support (stub)</div> }

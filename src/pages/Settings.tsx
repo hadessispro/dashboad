@@ -1,0 +1,1 @@
+export default function Settings(){ return <div className='card p-6'>Settings — Security (password, 2FA), Interface, Active sessions (stub layout)</div> }

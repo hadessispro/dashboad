@@ -1,0 +1,1 @@
+export default function Bans(){ return <div className='card p-6'>Active bans / Ban history — No data</div> }

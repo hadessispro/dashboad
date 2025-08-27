@@ -1,0 +1,1 @@
+export default function ServicePrices(){ return <div className='card p-6'>Service Prices — sliders, competitive price toggles (stub)</div> }

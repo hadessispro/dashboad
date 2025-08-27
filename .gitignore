@@ -1,0 +1,11 @@
+# node / build
+node_modules
+dist
+.vite
+# editor / OS
+.vscode
+.DS_Store
+Thumbs.db
+# env / vercel
+.env
+.vercel

@@ -1,0 +1,1 @@
+export default function Team(){ return <div className='card p-6'>Team management — stub</div> }

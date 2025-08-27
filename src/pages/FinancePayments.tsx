@@ -1,0 +1,1 @@
+export default function FinancePayments(){ return <div className='card p-6'>Payments history — stub</div> }

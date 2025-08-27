@@ -1,0 +1,1 @@
+export default function SMS(){ return <div className='card p-6'>SMS — table & filters (stub)</div> }

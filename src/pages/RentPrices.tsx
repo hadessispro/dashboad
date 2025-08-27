@@ -1,0 +1,1 @@
+export default function RentPrices(){ return <div className='card p-6'>Rent Prices — sliders (stub)</div> }

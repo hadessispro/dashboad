@@ -1,0 +1,1 @@
+export default function Rent(){ return <div className='card p-6'>Rent — table & filters (stub)</div> }

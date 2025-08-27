@@ -1,0 +1,1 @@
+export default function SimCards(){ return <div className='card p-6'>SIM-cards analytics — set period, filters, empty state</div> }

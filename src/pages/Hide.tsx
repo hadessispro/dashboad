@@ -1,0 +1,1 @@
+export default function Hide(){ return <div className='card p-6'>Hide — placeholder (could collapse sidebar)</div> }
